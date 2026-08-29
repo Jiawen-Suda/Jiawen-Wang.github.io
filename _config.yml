@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jiawen Wang / Site Title"
+title                    : "Jiawen Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Jiawen Wang's academic portfolio - Computational Chemistry & AI for Science"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
